@@ -1,5 +1,11 @@
 # hardhat
 
+## 2.22.6
+
+### Patch Changes
+
+- 3c66da2: Add support for Node v22
+
 ## 2.22.5
 
 ### Patch Changes
